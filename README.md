@@ -1,2 +1,2 @@
 # WebWeek3
-practice exercises on html
+Practice exercises on html
